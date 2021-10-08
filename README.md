@@ -18,6 +18,3 @@ As estudante da Data Science Academy, começo desenvolver códigos e notebooks p
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
