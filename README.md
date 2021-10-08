@@ -9,7 +9,7 @@ Meu portifólio de projetos de Data Science
 # Erick Carlis
 <sub>Cientista de Dados iniciante </sub>
 
-As estudante da Data Science Academy, começo desenvolver códigos e notebooks para apresentar um portifólio com o progresso do conteúdo que estou aprendendo.
+Como estudante da Data Science Academy, começo a desenvolver códigos e notebooks para apresentar um portifólio com o progresso do conteúdo que estou aprendendo.
 
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
