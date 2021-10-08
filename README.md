@@ -15,6 +15,5 @@ As estudante da Data Science Academy, começo desenvolver códigos e notebooks p
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-
+* [LinkedIn](https://www.linkedin.com/in/erick-carlis-582269200/)
 ## Projetos:
