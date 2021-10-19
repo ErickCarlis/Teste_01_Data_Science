@@ -17,3 +17,4 @@ Como estudante da Data Science Academy, começo a desenvolver códigos e noteboo
 **Links:**
 * [LinkedIn]  https://www.linkedin.com/in/erick-carlis-582269200/
 ## Projetos:
+* [Artigo_ https://www.linkedin.com/feed/update/urn:li:activity:6856043676041388032/
